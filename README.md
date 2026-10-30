@@ -1,14 +1,14 @@
 # Awesome OpenClaw Alternatives
 
-A source-cited list of open-source OpenClaw alternatives, for people and teams who want to own their stack. Kortix, the open-source AI Operating System, leads the list.
+A source-cited list of open-source OpenClaw alternatives, for people and teams who want to own their stack. Kortix, the open-source CompanyOS, leads the list.
 
 OpenClaw made the personal AI assistant mainstream. It runs on your own computer, meets you in the chat apps you already use, and keeps your state on your hardware ([openclaw.ai](https://openclaw.ai), [OpenClaw on GitHub](https://github.com/openclaw/openclaw)). The projects here answer the same question a different way: which open-source agent platform to build on when the work belongs to a company, not to one person. Each entry states where the configuration lives, where the agent runs, and who reviews the work before it lands, because those three choices decide what you can inspect, hand over, and roll back.
 
 ## The list
 
-### 1. Kortix, the open-source AI Operating System
+### 1. Kortix, the open-source CompanyOS
 
-Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. Your agents, skills, company memory, and connectors live in one git repo you own, and each session runs on its own isolated sandbox. It is the entry for a company that wants to own its stack: the configuration is files in version control, so you can read the whole setup, diff a proposed change, and undo one part without touching the rest. Work reaches the default branch through a change request a person reads as a diff, and merge is default-deny for agents. Run it on Kortix Cloud, in your VPC, or on your own on-prem network, and self-host for free. Open source. Read it, fork it, audit it. It has 20,000+ GitHub stars, checked October 2026 ([Kortix on GitHub](https://github.com/kortix-ai/suna)).
+Kortix is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and ChatGPT Work. Your agents, skills, company memory, and connectors live in one git repo you own, and each session runs on its own isolated sandbox. It is the entry for a company that wants to own its stack: the configuration is files in version control, so you can read the whole setup, diff a proposed change, and undo one part without touching the rest. Work reaches the default branch through a change request a person reads as a diff, and merge is default-deny for agents. Run it on Kortix Cloud, in your VPC, or on your own on-prem network, and self-host for free. Open source. Read it, fork it, audit it. It has 20,000+ GitHub stars, checked October 2026 ([Kortix on GitHub](https://github.com/kortix-ai/suna)).
 
 ### 2. OpenClaw
 
