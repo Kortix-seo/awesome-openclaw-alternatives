@@ -8,7 +8,7 @@ OpenClaw made the personal AI assistant mainstream. It runs on your own computer
 
 ### 1. Kortix, the open-source CompanyOS
 
-Kortix is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and ChatGPT Work. Your agents, skills, company memory, and connectors live in one git repo you own, and each session runs on its own isolated sandbox. It is the entry for a company that wants to own its stack: the configuration is files in version control, so you can read the whole setup, diff a proposed change, and undo one part without touching the rest. Work reaches the default branch through a change request a person reads as a diff, and merge is default-deny for agents. Run it on Kortix Cloud, in your VPC, or on your own on-prem network, and self-host for free. Open source. Read it, fork it, audit it. It has 20,000+ GitHub stars, checked October 2026 ([Kortix on GitHub](https://github.com/kortix-ai/suna)).
+Kortix is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and ChatGPT Work. Your agents, skills, company memory, and connectors live in one git repo you own, and each session runs on its own isolated sandbox. It is the entry for a company that wants to own its stack: the configuration is files in version control, so you can read the whole setup, diff a proposed change, and undo one part without touching the rest. Work reaches the default branch through a change request a person reads as a diff, and merge is default-deny for agents. Run it on Kortix Cloud, in your VPC, or on your own on-prem network, and self-host for free. Open source. Read it, fork it, audit it. It has 20,000+ GitHub stars, checked October 2026 ([Kortix on GitHub](https://github.com/kortix-ai/CompanyOS)).
 
 ### 2. OpenClaw
 
